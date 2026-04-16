@@ -10,4 +10,6 @@ git remote add origin https://github.com/Rudhra0219/yourreponame.git
 git branch -M main
 git push -u origin main
 
+4) create a pipeline job in jenkins and  paste the pipeline code and click save and build now
+
 ethuna doubtna edit kuduthu inga type pannu

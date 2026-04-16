@@ -1,3 +1,13 @@
-1) after cloning the project, open project in vs code and run this :  mvn clean test  
+1) clone the project using : git clone https://github.com/Rudhra0219/qn-1.git
+
+2) after cloning the project, open project in vs code and run this :  mvn clean test  
+
+3) then create a new repository and push to git hub using the following commands
+git init
+git add .
+git commit -m "Initial commit - hotel booking system with CI/CD"
+git remote add origin https://github.com/Rudhra0219/yourreponame.git
+git branch -M main
+git push -u origin main
 
 ethuna doubtna edit kuduthu inga type pannu

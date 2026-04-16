@@ -12,4 +12,20 @@ git push -u origin main
 
 4) create a pipeline job in jenkins and  paste the pipeline code and click save and build now
 
+5) i attached two new files deployment.yaml and service.yaml -- add this in you new repository and the folder you have cloned in your system and run the following commands in vs code 
+kubectl apply -f deployment.yaml
+kubectl apply -f service.yaml
+
+
+6)To verify its running:
+kubectl get pods
+kubectl get services
+
+paste the screenshot of the above steps clearly
+
+optional: 7) Access Your App
+Open browser:
+http://localhost:30007
+
+
 ethuna doubtna edit kuduthu inga type pannu

@@ -1,0 +1,1 @@
+1) after cloning the project, open project in vs code and run this :  mvn clean test  
